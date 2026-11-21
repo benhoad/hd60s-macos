@@ -1,0 +1,5 @@
+build/
+hd60s-grab
+*.dSYM/
+frame*.png
+.DS_Store
